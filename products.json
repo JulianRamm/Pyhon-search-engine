@@ -1,0 +1,128 @@
+[
+    {
+        "Producto": "Desmalezadora",
+        "Categoría": "Herramientas",
+        "Marca": "Makita",
+        "Precio": "$9.600",
+        "Cantidad": "5",
+        "Envío Gratis": "SI",
+        "Prestigio": "****"
+    },
+    {
+        "Producto": "Taladro",
+        "Categoría": "Herramientas",
+        "Marca": "Black & Decker",
+        "Precio": "$12.500",
+        "Cantidad": "7",
+        "Envío Gratis": "SI",
+        "Prestigio": "****"
+    },
+    {
+        "Producto": "Soldadora",
+        "Categoría": "Herramientas",
+        "Marca": "Black & Decker",
+        "Precio": "$7.215",
+        "Cantidad": "10",
+        "Envío Gratis": "SI",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Zapatillas Deportivas",
+        "Categoría": "Deportes",
+        "Marca": "Nike",
+        "Precio": "$14.000",
+        "Cantidad": "4",
+        "Envío Gratis": "SI",
+        "Prestigio": "*****"
+    },
+    {
+        "Producto": "Zapatillas Deportivas",
+        "Categoría": "Deportes",
+        "Marca": "Adidas",
+        "Precio": "$13.650",
+        "Cantidad": "6",
+        "Envío Gratis": "SI",
+        "Prestigio": "*****"
+    },
+    {
+        "Producto": "Camiseta",
+        "Categoría": "Deportes",
+        "Marca": "Topper",
+        "Precio": "$2.300",
+        "Cantidad": "2",
+        "Envío Gratis": "NO",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Short",
+        "Categoría": "Deportes",
+        "Marca": "Adidas",
+        "Precio": "$5.300",
+        "Cantidad": "2",
+        "Envío Gratis": "NO",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Gorra",
+        "Categoría": "Deportes",
+        "Marca": "Adidas",
+        "Precio": "$1.300",
+        "Cantidad": "2",
+        "Envío Gratis": "NO",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Redmi Note 9",
+        "Categoría": "Celulares",
+        "Marca": "Xiaomi",
+        "Precio": "$40.000",
+        "Cantidad": "15",
+        "Envío Gratis": "SI",
+        "Prestigio": "****"
+    },
+    {
+        "Producto": "Smartwatch",
+        "Categoría": "Celulares",
+        "Marca": "Noga",
+        "Precio": "$1.900",
+        "Cantidad": "20",
+        "Envío Gratis": "NO",
+        "Prestigio": "**"
+    },
+    {
+        "Producto": "Remera",
+        "Categoría": "Indumentaria",
+        "Marca": "Taverniti",
+        "Precio": "$2.300",
+        "Cantidad": "2",
+        "Envío Gratis": "NO",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Chomba",
+        "Categoría": "Indumentaria",
+        "Marca": "Taverniti",
+        "Precio": "$2.400",
+        "Cantidad": "6",
+        "Envío Gratis": "NO",
+        "Prestigio": "***"
+    },
+    {
+        "Producto": "Medias",
+        "Categoría": "Indumentaria",
+        "Marca": "Mistral",
+        "Precio": "$500",
+        "Cantidad": "8",
+        "Envío Gratis": "NO",
+        "Prestigio": "*"
+    },
+    {
+        "Producto": "Short",
+        "Categoría": "Indumentaria",
+        "Marca": "Lacoste",
+        "Precio": "$3.900",
+        "Cantidad": "9",
+        "Envío Gratis": "SI",
+        "Prestigio": "***"
+    }
+]
